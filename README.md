@@ -24,4 +24,4 @@ REST Public Endpoints
 -   Trades **not yet implemented**
 -   Books **not yet implemented**
 -   Stats **not yet implemented**
--   Candles **not yet implemented**
+-   Candles **Implemented** - No unit tests
